@@ -35,26 +35,3 @@ A step by step series of examples that tell you how to get a development env run
 * [AngularJS](https://angularjs.org/) - The web framework used
 * [TypeScript](https://www.typescriptlang.org/) - Development language
 * [Gulp](https://gulpjs.com/) - Development build tool
-
-## Contributing
-
-Currently I am not taking any external contribution. I will make it open for contribution after I make the repository ready. 
-
-
-## Versioning
-
-We will use [SemVer](http://semver.org/) for versioning. 
-
-## Authors
-
-* **Foyzul Karim** - *Initial work* - [Foyzul Karim](https://github.com/foyzulkarim)
-
-## License
-
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](https://github.com/foyzulkarim/bizbook-angularjs-ts-client/blob/master/LICENSE) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
