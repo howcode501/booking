@@ -2,7 +2,7 @@
 The client repository of bizbook client. Used AngularJS 1.5 with TypeScript
 
 ## Professional help and support
-Email: foyzulkarim@gmail.com
+Email: nakashimaradon@gmail.com
 
 ## Have question? Community is here
 Please let us know if you have any Question / Confusion so that we can add them in readme or Wiki or make videos to help you appropriately. 
